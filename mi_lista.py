@@ -12,5 +12,5 @@ print("Agregar un elemento de la lista")
 arcoiris.append("naranja")
 print(arcoiris)
 print("Listar los elemntos de la lista cilo for")
-for garcia in arcoiris:
-    print(garcia)
+for garza in arcoiris:
+    print(garza)
